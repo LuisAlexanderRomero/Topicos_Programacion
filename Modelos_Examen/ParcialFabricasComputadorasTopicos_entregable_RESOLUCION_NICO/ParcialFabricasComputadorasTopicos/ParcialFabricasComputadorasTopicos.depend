@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1730231724 source:c:\users\ndc\downloads\parcialfabricascomputadorastopicos_entregable\parcialfabricascomputadorastopicos\main.c
+	<stdio.h>
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Vector/Vector.h"
+	"../ArchivoTopicos/Archivo.h"
+	"../SolucionParcialFabricasComputadorasTopicos/SolucionParcialFabricasComputadorasTopicos.h"
+
+1718643976 c:\users\ndc\downloads\parcialfabricascomputadorastopicos_entregable\comun\comun.h
+
+1718643976 c:\users\ndc\downloads\parcialfabricascomputadorastopicos_entregable\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1718643976 c:\users\ndc\downloads\parcialfabricascomputadorastopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1718643976 c:\users\ndc\downloads\parcialfabricascomputadorastopicos_entregable\archivotopicos\archivo.h
+	<stddef.h>
+
+1718643976 c:\users\ndc\downloads\parcialfabricascomputadorastopicos_entregable\solucionparcialfabricascomputadorastopicos\solucionparcialfabricascomputadorastopicos.h
+
+1732295733 source:c:\users\ndc\downloads\parcial pan\parcialfabricascomputadorastopicos_entregable\parcialfabricascomputadorastopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Vector/Vector.h"
+	"../ArchivoTopicos/Archivo.h"
+	"../SolucionParcialFabricasComputadorasTopicos/SolucionParcialFabricasComputadorasTopicos.h"
+
+1718643976 c:\users\ndc\downloads\parcial pan\parcialfabricascomputadorastopicos_entregable\comun\comun.h
+
+1718643976 c:\users\ndc\downloads\parcial pan\parcialfabricascomputadorastopicos_entregable\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1718643976 c:\users\ndc\downloads\parcial pan\parcialfabricascomputadorastopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1732047099 c:\users\ndc\downloads\parcial pan\parcialfabricascomputadorastopicos_entregable\archivotopicos\archivo.h
+	<stddef.h>
+
+1718643976 c:\users\ndc\downloads\parcial pan\parcialfabricascomputadorastopicos_entregable\solucionparcialfabricascomputadorastopicos\solucionparcialfabricascomputadorastopicos.h
+

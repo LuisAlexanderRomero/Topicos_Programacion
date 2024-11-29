@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1689133247 source:c:\users\ndc\downloads\parcial pan y codigo archivos ultima clase\parcial pan\2023-07-01_parcialclubestopicos_entregable\parcialclubestopicos\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	"../SolucionClubesTopicos/UtilitariasClubes.h"
+	"../SolucionClubesTopicos/SolucionClubes.h"
+
+1688167642 c:\users\ndc\downloads\parcial pan y codigo archivos ultima clase\parcial pan\2023-07-01_parcialclubestopicos_entregable\solucionclubestopicos\utilitariasclubes.h
+
+1688167642 c:\users\ndc\downloads\parcial pan y codigo archivos ultima clase\parcial pan\2023-07-01_parcialclubestopicos_entregable\solucionclubestopicos\solucionclubes.h
+	<stdio.h>
+
+1732326769 source:c:\users\mi\documents\repo\clubes_topicos\parcialclubestopicos\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	"../SolucionClubesTopicos/UtilitariasClubes.h"
+	"../SolucionClubesTopicos/SolucionClubes.h"
+
+1688167644 c:\users\mi\documents\repo\clubes_topicos\solucionclubestopicos\utilitariasclubes.h
+
+1688167644 c:\users\mi\documents\repo\clubes_topicos\solucionclubestopicos\solucionclubes.h
+	<stdio.h>
+

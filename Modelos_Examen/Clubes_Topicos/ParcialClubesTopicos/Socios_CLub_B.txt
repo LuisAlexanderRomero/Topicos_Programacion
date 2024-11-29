@@ -1,0 +1,9 @@
+1258|Dominguez, Matias|21
+1110|Gomez, Carlos|19
+1239|Garcia, Jose|15
+1170|Martinez, Pablo|11
+1378|Alvarez, Roberto|30
+1245|Nuñez, Alejandro|23
+1000|Antuñez, Antonio|9
+1209|Gimenez, Martin|39
+1211|Gonzalez, Oscar|40

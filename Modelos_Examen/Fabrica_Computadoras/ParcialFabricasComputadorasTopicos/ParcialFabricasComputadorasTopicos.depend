@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1719279529 source:c:\users\laboratorios.unlmlab\desktop\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\parcialfabricascomputadorastopicos\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Vector/Vector.h"
+	"../ArchivoTopicos/Archivo.h"
+	"../SolucionParcialFabricasComputadorasTopicos/SolucionParcialFabricasComputadorasTopicos.h"
+
+1719276108 c:\users\laboratorios.unlmlab\desktop\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\comun\comun.h
+
+1718643976 c:\users\laboratorios.unlmlab\desktop\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1718643976 c:\users\laboratorios.unlmlab\desktop\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1718643976 c:\users\laboratorios.unlmlab\desktop\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\archivotopicos\archivo.h
+	<stddef.h>
+
+1718643976 c:\users\laboratorios.unlmlab\desktop\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\solucionparcialfabricascomputadorastopicos\solucionparcialfabricascomputadorastopicos.h
+
+1731597879 source:c:\users\mi\documents\2024-2do_cuatrimestre\topicos de prog 2c_24\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\parcialfabricascomputadorastopicos\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Vector/Vector.h"
+	"../ArchivoTopicos/Archivo.h"
+	"SolucionParcialFabricasComputadorasTopicos.h"
+
+1719276110 c:\users\mi\documents\2024-2do_cuatrimestre\topicos de prog 2c_24\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\comun\comun.h
+
+1718643978 c:\users\mi\documents\2024-2do_cuatrimestre\topicos de prog 2c_24\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1718643978 c:\users\mi\documents\2024-2do_cuatrimestre\topicos de prog 2c_24\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1718643978 c:\users\mi\documents\2024-2do_cuatrimestre\topicos de prog 2c_24\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\archivotopicos\archivo.h
+	<stddef.h>
+
+1718643978 c:\users\mi\documents\2024-2do_cuatrimestre\topicos de prog 2c_24\parcial_romero_40228032\parcialfabricascomputadorastopicos_entregable\parcialfabricascomputadorastopicos\solucionparcialfabricascomputadorastopicos.h
+
+1732125589 source:c:\users\mi\documents\repo\fabrica_computadoras\parcialfabricascomputadorastopicos\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Vector/Vector.h"
+	"../ArchivoTopicos/Archivo.h"
+	"SolucionParcialFabricasComputadorasTopicos.h"
+
+1719276110 c:\users\mi\documents\repo\fabrica_computadoras\comun\comun.h
+
+1718643978 c:\users\mi\documents\repo\fabrica_computadoras\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1718643978 c:\users\mi\documents\repo\fabrica_computadoras\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1718643978 c:\users\mi\documents\repo\fabrica_computadoras\archivotopicos\archivo.h
+	<stddef.h>
+
+1718643978 c:\users\mi\documents\repo\fabrica_computadoras\parcialfabricascomputadorastopicos\solucionparcialfabricascomputadorastopicos.h
+

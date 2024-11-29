@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1732373782 source:c:\users\laboratorios.unlmlab\desktop\topicos\parcialmueblestopicos_entregable\parcialmueblestopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Vector/Vector.h"
+	"../SolucionParcialMueblesTopicos/SolucionMuebles.h"
+	<string.h>
+
+1732219200 c:\users\laboratorios.unlmlab\desktop\topicos\parcialmueblestopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1732219200 c:\users\laboratorios.unlmlab\desktop\topicos\parcialmueblestopicos_entregable\comun\comun.h
+
+1732367128 c:\users\laboratorios.unlmlab\desktop\topicos\parcialmueblestopicos_entregable\solucionparcialmueblestopicos\solucionmuebles.h
+	<stdbool.h>
+
+1732818488 source:c:\users\mi\documents\repo\parcialmueblestopicos_entregable\parcialmueblestopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Vector/Vector.h"
+	"../SolucionParcialMueblesTopicos/SolucionMuebles.h"
+	<string.h>
+
+1732219202 c:\users\mi\documents\repo\parcialmueblestopicos_entregable\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+	"../Comun/Comun.h"
+
+1732219202 c:\users\mi\documents\repo\parcialmueblestopicos_entregable\comun\comun.h
+
+1732367130 c:\users\mi\documents\repo\parcialmueblestopicos_entregable\solucionparcialmueblestopicos\solucionmuebles.h
+	<stdbool.h>
+
